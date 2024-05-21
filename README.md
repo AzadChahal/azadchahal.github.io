@@ -13,5 +13,7 @@ Test if this line got merged!
 
 Another Line to merge
 
+Image
+![](https://raw.githubusercontent.com/opengeos/leafmap/master/docs/assets/logo_rect.png)
 
 
