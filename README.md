@@ -12,6 +12,7 @@ Check if these changes comes to VS Code
 Test if this line got merged!
 
 Another Line to merge
+(Remove this above line later)
 
 Image
 ![](https://raw.githubusercontent.com/opengeos/leafmap/master/docs/assets/logo_rect.png)
