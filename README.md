@@ -1,6 +1,6 @@
 # azadchahal.github.io
 ## Introduction
-This is my personal website. My Name is Azad Chahal: How are you? Welcome to my Fancy Website!
+This is my personal website, not my personal github profile website. My Name is Azad Chahal: How are you? Welcome to my Fancy Website!
 Add a new line
 
 ## Demo
